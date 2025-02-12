@@ -1,4 +1,2 @@
-# Earth-updates
-Updates, Patches, and more
-
-  Website soon...
+# OLD REPO
+https://github.com/EarthDevelopers/PatchNotes FOR NEW
